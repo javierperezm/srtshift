@@ -1,0 +1,14 @@
+{
+  "name": "srtshift",
+  "version": "0.0.1",
+  "description": "Shift time on subtitles files SRT",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Javier Perez <javier.perez@appaka.ch>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "9.2.1"
+  }
+}
